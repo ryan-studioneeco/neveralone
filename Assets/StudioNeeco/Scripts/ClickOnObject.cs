@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.EventSystems;
 
 namespace StudioNeeco {
   /// <summary>
@@ -13,7 +14,7 @@ namespace StudioNeeco {
     void Update() {
       if (Input.GetMouseButtonDown(0)){
         Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-        if (Physics.Raycast(ray, out RaycastHit hit)) {
+        if (Physics.Raycast(ray, out RaycastHit hit) && !EventSystem.current.IsPointerOverGameObject(-1) && !EventSystem.current.IsPointerOverGameObject(0)) {
           hitEvent.Invoke();
           hitEventWithPoint.Invoke(hit.point);
         }
