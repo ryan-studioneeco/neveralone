@@ -369,8 +369,8 @@ MonoBehaviour:
   - 0.686
   - 1
   offset: {x: 0.19585465, y: 0, z: 0}
-  initialOffsetAnimationSpeed: 0.5
-  animationSpeed: 0.5
+  initialOffsetAnimationSpeed: 0.26503104
+  animationSpeed: 0.3
   offsetTime: 1
   multiplySpeedPercent: 1
   randomizeSpeedPercent: 0.2
@@ -514,8 +514,8 @@ MonoBehaviour:
   - 0.686
   - 1
   offset: {x: 0.19585465, y: 0, z: 0}
-  initialOffsetAnimationSpeed: 0.5
-  animationSpeed: 0.5
+  initialOffsetAnimationSpeed: 0.27860743
+  animationSpeed: 0.3
   offsetTime: 1
   multiplySpeedPercent: 1
   randomizeSpeedPercent: 0.2
@@ -822,8 +822,8 @@ MonoBehaviour:
   - 0.686
   - 1
   offset: {x: 0.19585465, y: 0, z: 0}
-  initialOffsetAnimationSpeed: 0.5
-  animationSpeed: 0.5
+  initialOffsetAnimationSpeed: 0.27372903
+  animationSpeed: 0.3
   offsetTime: 1
   multiplySpeedPercent: 1
   randomizeSpeedPercent: 0.2
@@ -1864,8 +1864,8 @@ MonoBehaviour:
   - 0.686
   - 1
   offset: {x: 0.19585465, y: 0, z: 0}
-  initialOffsetAnimationSpeed: 0.5
-  animationSpeed: 0.5
+  initialOffsetAnimationSpeed: 0.2753859
+  animationSpeed: 0.3
   offsetTime: 1
   multiplySpeedPercent: 1
   randomizeSpeedPercent: 0.2
@@ -2172,8 +2172,8 @@ MonoBehaviour:
   - 0.686
   - 1
   offset: {x: 0.19585465, y: 0, z: 0}
-  initialOffsetAnimationSpeed: 0.5
-  animationSpeed: 0.5
+  initialOffsetAnimationSpeed: 0.30048925
+  animationSpeed: 0.3
   offsetTime: 1
   multiplySpeedPercent: 1
   randomizeSpeedPercent: 0.2
@@ -2480,8 +2480,8 @@ MonoBehaviour:
   - 0.686
   - 1
   offset: {x: 0.19585465, y: 0, z: 0}
-  initialOffsetAnimationSpeed: 0.5
-  animationSpeed: 0.5
+  initialOffsetAnimationSpeed: 0.27687958
+  animationSpeed: 0.3
   offsetTime: 1
   multiplySpeedPercent: 1
   randomizeSpeedPercent: 0.2
@@ -2766,6 +2766,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8432372716756157178, guid: 3b99f8e61da3143218a67dcd4c63a5fc,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3b99f8e61da3143218a67dcd4c63a5fc, type: 3}
 --- !u!114 &1420492555 stripped
@@ -2923,8 +2928,8 @@ MonoBehaviour:
   - 0.686
   - 1
   offset: {x: 0.19585465, y: 0, z: 0}
-  initialOffsetAnimationSpeed: 0.5
-  animationSpeed: 0.5
+  initialOffsetAnimationSpeed: 0.29805818
+  animationSpeed: 0.3
   offsetTime: 1
   multiplySpeedPercent: 1
   randomizeSpeedPercent: 0.2
@@ -3068,8 +3073,8 @@ MonoBehaviour:
   - 0.686
   - 1
   offset: {x: 0.19585465, y: 0, z: 0}
-  initialOffsetAnimationSpeed: 0.5
-  animationSpeed: 0.5
+  initialOffsetAnimationSpeed: 0.26730067
+  animationSpeed: 0.3
   offsetTime: 1
   multiplySpeedPercent: 1
   randomizeSpeedPercent: 0.2
@@ -3624,8 +3629,8 @@ MonoBehaviour:
   - 0.686
   - 1
   offset: {x: 0.19585465, y: 0, z: 0}
-  initialOffsetAnimationSpeed: 0.5
-  animationSpeed: 0.5
+  initialOffsetAnimationSpeed: 0.31334698
+  animationSpeed: 0.3
   offsetTime: 1
   multiplySpeedPercent: 1
   randomizeSpeedPercent: 0.2
@@ -3769,8 +3774,8 @@ MonoBehaviour:
   - 0.686
   - 1
   offset: {x: 0.19585465, y: 0, z: 0}
-  initialOffsetAnimationSpeed: 0.5
-  animationSpeed: 0.5
+  initialOffsetAnimationSpeed: 0.3311925
+  animationSpeed: 0.3
   offsetTime: 1
   multiplySpeedPercent: 1
   randomizeSpeedPercent: 0.2

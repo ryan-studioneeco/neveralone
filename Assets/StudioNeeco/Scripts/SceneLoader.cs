@@ -27,7 +27,10 @@ namespace StudioNeeco {
             this.LoadSceneWithName(this.sceneNames[(this.currentSceneIndex + 1) % this.sceneNames.Count]);
         }
         public void LoadPreviousScene() {
-            if (this.currentSceneIndex > 0) {
+            Debug.Log("LoadPreviousScene");
+            if (this.currentSceneIndex > 0) {  
+                Debug.Log("this.currentSceneIndex: " + this.currentSceneIndex);
+                Debug.Log("this.sceneNames[this.currentSceneIndex - 1]: " + this.sceneNames[this.currentSceneIndex - 1]);
                 this.LoadSceneWithName(this.sceneNames[this.currentSceneIndex - 1]);
             }
         }

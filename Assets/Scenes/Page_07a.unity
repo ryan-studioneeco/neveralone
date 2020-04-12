@@ -421,7 +421,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.5
   animationSpeed: 0.5
   offsetTime: 0
@@ -729,7 +729,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.348143
   animationSpeed: 0.4
   offsetTime: 2
@@ -874,7 +874,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.24917716
   animationSpeed: 0.3
   offsetTime: 1.8125868
@@ -1019,7 +1019,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.39123178
   animationSpeed: 0.3
   offsetTime: 1.685756
@@ -1327,7 +1327,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.39123178
   animationSpeed: 0.3
   offsetTime: 1.685756
@@ -1472,7 +1472,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.27260494
   animationSpeed: 0.3
   offsetTime: 1.792084
@@ -1698,7 +1698,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.57170826
   animationSpeed: 0.4
   offsetTime: 2
@@ -1987,7 +1987,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.39123178
   animationSpeed: 0.3
   offsetTime: 1.685756
@@ -2132,7 +2132,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.24917716
   animationSpeed: 0.3
   offsetTime: 1.8125868
@@ -2440,7 +2440,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.35851064
   animationSpeed: 0.3
   offsetTime: 1.6917155
@@ -2863,7 +2863,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.48145983
   animationSpeed: 0.4
   offsetTime: 0
@@ -3084,7 +3084,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.36711863
   animationSpeed: 0.3
   offsetTime: 2.0393767
@@ -3229,7 +3229,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.57170826
   animationSpeed: 0.4
   offsetTime: 2
@@ -3374,7 +3374,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.35851064
   animationSpeed: 0.3
   offsetTime: 1.6917155
@@ -3519,7 +3519,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.27260494
   animationSpeed: 0.3
   offsetTime: 1.792084
@@ -3827,7 +3827,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.30205187
   animationSpeed: 0.3
   offsetTime: 1.9085417
@@ -3972,7 +3972,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.35851064
   animationSpeed: 0.3
   offsetTime: 1.6917155
@@ -4117,7 +4117,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.57170826
   animationSpeed: 0.4
   offsetTime: 2
@@ -4262,7 +4262,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.57170826
   animationSpeed: 0.4
   offsetTime: 2
@@ -4570,7 +4570,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.39123178
   animationSpeed: 0.3
   offsetTime: 1.685756
@@ -4715,7 +4715,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.3055364
   animationSpeed: 0.3
   offsetTime: 1.6618409
@@ -4860,7 +4860,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.3
   animationSpeed: 0.4
   offsetTime: 1.7758726
@@ -5005,7 +5005,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.39460835
   animationSpeed: 0.4
   offsetTime: 2
@@ -5150,7 +5150,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.3
   animationSpeed: 0.4
   offsetTime: 1.7894175
@@ -5295,7 +5295,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.36711863
   animationSpeed: 0.3
   offsetTime: 2.0393767
@@ -5440,7 +5440,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.30205187
   animationSpeed: 0.3
   offsetTime: 1.9085417
@@ -5829,7 +5829,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.5
   animationSpeed: 0.5
   offsetTime: 0
@@ -5974,7 +5974,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.36711863
   animationSpeed: 0.3
   offsetTime: 2.0393767
@@ -6119,7 +6119,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.27260494
   animationSpeed: 0.3
   offsetTime: 1.792084
@@ -6421,7 +6421,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.3
   animationSpeed: 0.4
   offsetTime: 2.136925
@@ -6566,7 +6566,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.27260494
   animationSpeed: 0.3
   offsetTime: 1.792084
@@ -6711,7 +6711,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.39123178
   animationSpeed: 0.3
   offsetTime: 1.685756
@@ -7100,7 +7100,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.27260494
   animationSpeed: 0.3
   offsetTime: 1.792084
@@ -7245,7 +7245,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.36711863
   animationSpeed: 0.3
   offsetTime: 2.0393767
@@ -7553,7 +7553,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.30205187
   animationSpeed: 0.3
   offsetTime: 1.9085417
@@ -7710,7 +7710,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.35851064
   animationSpeed: 0.3
   offsetTime: 1.6917155
@@ -7855,7 +7855,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.48145983
   animationSpeed: 0.4
   offsetTime: 0
@@ -8175,7 +8175,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.24917716
   animationSpeed: 0.3
   offsetTime: 1.8125868
@@ -8320,7 +8320,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.24917716
   animationSpeed: 0.3
   offsetTime: 1.8125868
@@ -8465,7 +8465,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.57170826
   animationSpeed: 0.4
   offsetTime: 2
@@ -8610,7 +8610,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.3
   animationSpeed: 0.4
   offsetTime: 1.6788919
@@ -8918,7 +8918,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.27509
   animationSpeed: 0.4
   offsetTime: 2
@@ -9069,7 +9069,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.3055364
   animationSpeed: 0.3
   offsetTime: 1.6618409
@@ -9214,7 +9214,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.39123178
   animationSpeed: 0.3
   offsetTime: 1.685756
@@ -9359,7 +9359,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.57170826
   animationSpeed: 0.4
   offsetTime: 2
@@ -9667,7 +9667,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.5
   animationSpeed: 0.5
   offsetTime: 0
@@ -9812,7 +9812,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.5
   animationSpeed: 0.5
   offsetTime: 0
@@ -10072,7 +10072,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.48145983
   animationSpeed: 0.4
   offsetTime: 0
@@ -10217,7 +10217,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.30205187
   animationSpeed: 0.3
   offsetTime: 1.9085417
@@ -10362,7 +10362,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.3
   animationSpeed: 0.4
   offsetTime: 2.2365806
@@ -10670,7 +10670,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.36711863
   animationSpeed: 0.3
   offsetTime: 2.0393767
@@ -10978,7 +10978,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.30205187
   animationSpeed: 0.3
   offsetTime: 1.9085417
@@ -11286,7 +11286,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.3055364
   animationSpeed: 0.3
   offsetTime: 1.6618409
@@ -11431,7 +11431,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.39123178
   animationSpeed: 0.3
   offsetTime: 1.685756
@@ -11576,7 +11576,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.27260494
   animationSpeed: 0.3
   offsetTime: 1.792084
@@ -11721,7 +11721,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.27260494
   animationSpeed: 0.3
   offsetTime: 1.792084
@@ -11866,7 +11866,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.27260494
   animationSpeed: 0.3
   offsetTime: 1.792084
@@ -12174,7 +12174,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.3591099
   animationSpeed: 0.4
   offsetTime: 2
@@ -12482,7 +12482,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.24917716
   animationSpeed: 0.3
   offsetTime: 1.8125868
@@ -12627,7 +12627,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.3055364
   animationSpeed: 0.3
   offsetTime: 1.6618409

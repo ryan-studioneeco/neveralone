@@ -294,7 +294,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.27167356
   animationSpeed: 0.2
   offsetTime: 3
@@ -472,7 +472,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.14604932
   animationSpeed: 0.2
   offsetTime: 3
@@ -617,7 +617,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.26916766
   animationSpeed: 0.2
   offsetTime: 3
@@ -1041,7 +1041,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.37179923
   animationSpeed: 0.2
   offsetTime: 3
@@ -1348,7 +1348,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.2
   animationSpeed: 0.2
   offsetTime: 1.5
@@ -3345,7 +3345,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.23327106
   animationSpeed: 0.2
   offsetTime: 3
@@ -3490,7 +3490,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.31018493
   animationSpeed: 0.2
   offsetTime: 3
@@ -3798,7 +3798,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.19590397
   animationSpeed: 0.2
   offsetTime: 3
@@ -4106,7 +4106,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.22763713
   animationSpeed: 0.2
   offsetTime: 3
@@ -4426,7 +4426,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.23808394
   animationSpeed: 0.2
   offsetTime: 3
@@ -4571,7 +4571,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0.19585465, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.3
   animationSpeed: 0.2
   offsetTime: 1.5
@@ -4960,7 +4960,7 @@ MonoBehaviour:
   - 0.353
   - 0.686
   - 1
-  offset: {x: 0, y: 0, z: 0}
+  offset: {x: -0.2, y: 0, z: 0}
   initialOffsetAnimationSpeed: 0.5
   animationSpeed: 0.2
   offsetTime: 1.5
