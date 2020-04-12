@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2550424917588653563
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 526737667570644643}
+  - component: {fileID: 2977668315152820146}
+  - component: {fileID: 1937821032807977127}
+  m_Layer: 0
+  m_Name: MusicPlayer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &526737667570644643
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2550424917588653563}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 688.22534, y: 994.69257, z: 426.01978}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2977668315152820146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2550424917588653563}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58cf23002e534448f85e6e74ac47d7fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneClips:
+  - sceneName: MainMenu
+    clip: {fileID: 8300000, guid: 912060537d6484d2a9358f68e9736da7, type: 3}
+    fadeInTime: 5
+  - sceneName: WindTrial p1a
+    clip: {fileID: 8300000, guid: bf789ee6cd6b84815ace6a26f89949c2, type: 3}
+    fadeInTime: 5
+  - sceneName: WindTrial p1b
+    clip: {fileID: 8300000, guid: bf789ee6cd6b84815ace6a26f89949c2, type: 3}
+    fadeInTime: 5
+  - sceneName: BirdsTrial p1a
+    clip: {fileID: 8300000, guid: d68c1159c27b044159d63108fb22df22, type: 3}
+    fadeInTime: 5
+  - sceneName: BirdsTrial p1b
+    clip: {fileID: 8300000, guid: d68c1159c27b044159d63108fb22df22, type: 3}
+    fadeInTime: 5
+  - sceneName: BirdsTrial p2a
+    clip: {fileID: 8300000, guid: 3c4344165d48e4b04a454d19a22de991, type: 3}
+    fadeInTime: 5
+  - sceneName: BirdsTrial p2b
+    clip: {fileID: 8300000, guid: 3c4344165d48e4b04a454d19a22de991, type: 3}
+    fadeInTime: 5
+  - sceneName: WindTrial p2a
+    clip: {fileID: 8300000, guid: 755758b604adc46d49187908a9ba427d, type: 3}
+    fadeInTime: 5
+  - sceneName: WindTrial p2b
+    clip: {fileID: 8300000, guid: 755758b604adc46d49187908a9ba427d, type: 3}
+    fadeInTime: 5
+  - sceneName: LandTrial p1a
+    clip: {fileID: 8300000, guid: c197e399153034868aacdf6ff3c62504, type: 3}
+    fadeInTime: 5
+  - sceneName: LandTrial p1b
+    clip: {fileID: 8300000, guid: c197e399153034868aacdf6ff3c62504, type: 3}
+    fadeInTime: 5
+  - sceneName: LandTrial p2a
+    clip: {fileID: 8300000, guid: c4377c60a7b6e4c78bb0d3d98fa70a98, type: 3}
+    fadeInTime: 5
+  - sceneName: LandTrial p2b
+    clip: {fileID: 8300000, guid: c4377c60a7b6e4c78bb0d3d98fa70a98, type: 3}
+    fadeInTime: 5
+  - sceneName: LightTrial p1a
+    clip: {fileID: 8300000, guid: 2ff1fd721cfe74ce2a1d7597e79859d5, type: 3}
+    fadeInTime: 5
+  - sceneName: LightTrial p1b
+    clip: {fileID: 8300000, guid: 2ff1fd721cfe74ce2a1d7597e79859d5, type: 3}
+    fadeInTime: 5
+  - sceneName: Tutorial
+    clip: {fileID: 8300000, guid: 912060537d6484d2a9358f68e9736da7, type: 3}
+    fadeInTime: 5
+  - sceneName: Ending
+    clip: {fileID: 8300000, guid: 755758b604adc46d49187908a9ba427d, type: 3}
+    fadeInTime: 5
+  playingClip: {fileID: 0}
+  fadeOutTime: 2
+--- !u!82 &1937821032807977127
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2550424917588653563}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 1
+  BypassListenerEffects: 1
+  BypassReverbZones: 1
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
