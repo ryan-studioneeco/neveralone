@@ -308,6 +308,16 @@ PrefabInstance:
       propertyPath: sceneNames.Array.data[14]
       value: Page_10
       objectReference: {fileID: 0}
+    - target: {fileID: 4141186840708123021, guid: 3b99f8e61da3143218a67dcd4c63a5fc,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6247247873030252481, guid: 3b99f8e61da3143218a67dcd4c63a5fc,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7941281808352521490, guid: 3b99f8e61da3143218a67dcd4c63a5fc,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -366,7 +376,7 @@ PrefabInstance:
     - target: {fileID: 8432372716756157178, guid: 3b99f8e61da3143218a67dcd4c63a5fc,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3b99f8e61da3143218a67dcd4c63a5fc, type: 3}
