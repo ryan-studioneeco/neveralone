@@ -11,15 +11,34 @@ namespace StudioNeeco {
     [RequireComponent (typeof (CanvasGroup))]
     public class FadeController : MonoBehaviour {
         public UnityEvent finishedFadingEvent;
+        public UnityEvent finishedFadingOutEvent;
         public UnityEvent startedFadingEvent;
         private CanvasGroup canvasGroup;
         public bool isFading;
         public bool fadeOnStart;
+        public bool fadeInOnStart;
         public float fromOpacity;
         public float toOpacity;
         public float duration;
+        public float fadeInDuration;
+        public float fadeOutDuration;
+        private void Awake()
+        {
+            if (this.fadeInOnStart) this.FadeIn();
+            else if (this.fadeOnStart) this.StartFadeCoroutine();
+            
+        }
         private void Start() {
-            if (this.fadeOnStart) this.StartFadeCoroutine();
+        }
+        public void FadeIn() {
+            this.StartCoroutine(this.Fade(1, 0, this.fadeInDuration));
+        }
+        public void FadeOut() {
+            this.StartCoroutine(this.FadeOutCoroutine());
+        }
+        public IEnumerator FadeOutCoroutine() {
+            yield return this.FadeCoroutine(1, 0, this.fadeOutDuration);
+            this.finishedFadingOutEvent.Invoke();
         }
         public void StartFadeCoroutine () {
             this.StartCoroutine(this.Fade());
@@ -41,7 +60,7 @@ namespace StudioNeeco {
                 while (timeFading < duration) {
                     if (this.canvasGroup) {
                         float newAlpha = Mathf.Lerp(fromOpacity, toOpacity, timeFading / duration);
-                        Debug.Log(newAlpha);
+                        // Debug.Log(newAlpha);
                         this.canvasGroup.alpha = newAlpha;
                     }
                     else Debug.LogWarning("FadeController is attempting to use a canvas group, but it was not assigned.");
@@ -51,7 +70,7 @@ namespace StudioNeeco {
                 this.canvasGroup.alpha = toOpacity; // guarantee it is the expected final value
                 this.isFading = false;
                 this.finishedFadingEvent.Invoke();
-                Debug.Log("finishedFadingEvent");
+                // Debug.Log("finishedFadingEvent");
                 yield return null;
             } else {
                 Debug.LogWarning("FadeController.Fade was called while FadeController was already performing a fade. Check the isFading property before running this coroutine.");

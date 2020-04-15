@@ -16,6 +16,7 @@ namespace StudioNeeco {
 
         private void Awake () {
             MusicPlayerSceneClip sceneClip = this.sceneClips.Find(clip => clip.sceneName == SceneManager.GetActiveScene().name);
+            if (sceneClip == null) sceneClip = this.sceneClips[0];
             this.audioSource = this.GetComponent<UnityEngine.AudioSource>();
             this.gameObject.transform.parent = null;
             DontDestroyOnLoad(this.gameObject);
